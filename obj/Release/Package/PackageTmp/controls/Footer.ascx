@@ -1,0 +1,2 @@
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Footer.ascx.cs" Inherits="Registration.controls.Footer" %>
+<p class="Copyright">Copyright &copy; 2021 American Psychological Association Annual Convention.  All rights reserved.</p>

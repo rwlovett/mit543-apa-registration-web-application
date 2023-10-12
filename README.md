@@ -17,4 +17,4 @@ In addition to successfully replicating the functionality of the paper form into
 This project showcases the practical application of ASP.NET, C#, and web development skills to address real-world challenges in a professional context.
 
 
-![web application project](https://github.com/rwlovett/mit-web-application-development/assets/106644832/d5b99983-349c-4f59-b88c-db4c649f7ea5)
+![web application project](https://github.com/rwlovett/mit543-apa-registration-web-application/assets/106644832/db5ef0f7-2fd9-482a-8f11-87c3b27eda95)

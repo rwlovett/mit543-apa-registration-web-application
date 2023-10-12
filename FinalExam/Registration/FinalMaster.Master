@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="FinalMaster.master.cs" Inherits="Registration.FinalMaster" %>
+
+<%@ Register Src="~/controls/Header.ascx" TagPrefix="uc1" TagName="Header" %>
+<%@ Register Src="~/controls/Footer.ascx" TagPrefix="uc2" TagName="Footer" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>APA Registration Form</title>
+    <link href="scripts/Styles.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="masterForm" runat="server">
+        <div>
+            <uc1:Header runat="server" id="Header" />
+            <asp:ContentPlaceHolder ID="MasterContentPlaceHolder" runat="server">
+                <h2>My Registration</h2>
+            </asp:ContentPlaceHolder>
+            <uc2:Footer runat="server" id="Footer" />
+        </div>
+    </form>
+</body>
+</html>

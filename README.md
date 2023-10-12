@@ -4,7 +4,7 @@ This project was developed as a part of a web application development course (MI
 ### Key Features and Technologies:
 * **ASP.NET with C# "Code Behind":** The core of the project involved building a main registration page using ASP.NET and C# for the server-side logic. This allowed for dynamic form rendering and data processing.
 * **Header and Footer Control Elements:** To enhance the user interface and maintain a consistent look and feel, header and footer control elements were implemented. These controls were designed to appear consistently across all pages of the website, reducing the need to duplicate them in the code for each page.
-* **Data Management:** The project included the creation of a web service that allowed the data collected from the registration forms to be posted to an SQL database.
+* **Data Management:** The project included the creation of a web service that allowed the data collected from the registration forms to be posted to an SQL database.  The web service and SQL database were hosted on Elmhurst's website originally.
 
 ### Project Goals and Achievements:
 The project aimed to modernize the registration process for the APA Annual Convention by transitioning from paper forms to a web-based solution. This involved improving user experience, reducing manual data entry, and streamlining the registration process.
